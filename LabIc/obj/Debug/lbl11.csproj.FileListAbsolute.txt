@@ -1,0 +1,11 @@
+C:\Users\glebb\OneDrive\Рабочий стол\lbl11-master\bin\Debug\lbl11.exe.config
+C:\Users\glebb\OneDrive\Рабочий стол\lbl11-master\bin\Debug\lbl11.exe
+C:\Users\glebb\OneDrive\Рабочий стол\lbl11-master\bin\Debug\lbl11.pdb
+C:\Users\glebb\OneDrive\Рабочий стол\lbl11-master\obj\Debug\lbl11.csproj.AssemblyReference.cache
+C:\Users\glebb\OneDrive\Рабочий стол\lbl11-master\obj\Debug\lbl11.Form1.resources
+C:\Users\glebb\OneDrive\Рабочий стол\lbl11-master\obj\Debug\lbl11.Properties.Resources.resources
+C:\Users\glebb\OneDrive\Рабочий стол\lbl11-master\obj\Debug\lbl11.csproj.GenerateResource.cache
+C:\Users\glebb\OneDrive\Рабочий стол\lbl11-master\obj\Debug\lbl11.csproj.CoreCompileInputs.cache
+C:\Users\glebb\OneDrive\Рабочий стол\lbl11-master\obj\Debug\lbl11.exe
+C:\Users\glebb\OneDrive\Рабочий стол\lbl11-master\obj\Debug\lbl11.pdb
+C:\Users\glebb\OneDrive\Рабочий стол\lbl11-master\obj\Debug\lbl11.Form2.resources
